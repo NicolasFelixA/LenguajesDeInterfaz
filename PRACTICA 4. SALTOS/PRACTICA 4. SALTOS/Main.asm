@@ -19,7 +19,7 @@ iguales:
 prueba2:
     mov eax, 5
     sub eax, 5
-    jz esCero   Salta si es cero (si la bandera ZF está activada, significa que el resultado fue cero y ejecuta el salto)
+    jz esCero   ;Salta si es cero (si la bandera ZF está activada, significa que el resultado fue cero y ejecuta el salto)
     jmp prueba3
 
 esCero:
@@ -29,7 +29,7 @@ esCero:
 prueba3:
     mov eax, 20
     cmp eax, 10
-    jg mayor    JG: Salta si es mayor (después de un CMP, si el primer valor es mayor que el segundo ejecuta el salto. Se cumple cuando ZF = 0 y SF = OF).
+    jg mayor    ;JG: Salta si es mayor (después de un CMP, si el primer valor es mayor que el segundo ejecuta el salto. Se cumple cuando ZF = 0 y SF = OF).
     jmp prueba4
 
 mayor:
@@ -39,7 +39,7 @@ mayor:
 prueba4:
     mov eax, 5
     cmp eax, 10
-    jl menor    JG: Salta si es mayor (después de un CMP, si el primer valor es mayor que el segundo ejecuta el salto. Se cumple cuando ZF = 0 y SF != OF).
+    jl menor    ;JG: Salta si es mayor (después de un CMP, si el primer valor es mayor que el segundo ejecuta el salto. Se cumple cuando ZF = 0 y SF != OF).
     jmp finalizar
 
 menor:
