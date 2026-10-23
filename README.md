@@ -61,3 +61,24 @@ Cada ejercicio permite conocer y aplicar diferentes instrucciones del lenguaje e
 Ingeniería en Sistemas Computacionales
 
 Instituto Tecnológico de Culiacán
+
+## 🔗 Enlaces a las prácticas
+
+1. [Práctica 1 - Ciclos numéricos](https://github.com/NicolasFelixA/LenguajesDeInterfaz/blob/main/PRACTICA%201.%20CICLOS%20NUMERICOS/PRACTICA%201.%20CICLOS%20NUMERICOS/Main.asm)
+2. [Práctica 2 - Captura y desplegado de mensajes](URL_AQUI)
+3. [Práctica 3 - Comparación y prueba](URL_AQUI)
+4. [Práctica 4 - Saltos](URL_AQUI)
+   - [Práctica 4.1 - Mayor, menor o igual con entrada del usuario](URL_AQUI)
+5. [Práctica 5 - Condicionales](URL_AQUI)
+   - [Práctica 5.1 - Repetir hasta que el usuario ingrese cero](URL_AQUI)
+6. [Práctica 6 - Decremento e incremento](URL_AQUI)
+   - [Práctica 6.1 - Control de ocupación de un estacionamiento](URL_AQUI)
+7. [Práctica 7 - Validación de formato](URL_AQUI)
+8. [Práctica 8 - Operaciones aritméticas](URL_AQUI)
+9. [Práctica 9 - PUSH y POP](URL_AQUI)
+10. [Práctica 10 - Obtención de una cadena decimal](URL_AQUI)
+11. [Práctica 11 - Operaciones lógicas](URL_AQUI)
+12. [Práctica 12 - Desplazamiento y rotación](URL_AQUI)
+13. [Práctica 13 - Obtención de una cadena hexadecimal](URL_AQUI)
+14. [Práctica 14 - Captura y almacenamiento de datos numéricos](URL_AQUI)
+15. [Práctica 15 - Manipulación de archivos](URL_AQUI)
