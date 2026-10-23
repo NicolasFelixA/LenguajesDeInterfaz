@@ -1,37 +1,63 @@
-#LenguajesDeInterfaz
+# 💻 Lenguajes de Interfaz
 
-Repositorio de programas de práctica realizados en lenguaje ensamblador para la materia de Lenguajes de Interfaz, correspondientes a la Unidad 2.
+### 📚 Programas de práctica - Unidad 2
 
-Información académica
+Repositorio de programas desarrollados en **lenguaje ensamblador x86** para la materia de **Lenguajes de Interfaz**.
 
-Institución: Instituto Tecnológico de Culiacán
+---
 
-Materia: Lenguajes de Interfaz
+## 📋 Información académica
 
-Unidad: 2
+- **Institución:** Instituto Tecnológico de Culiacán
+- **Materia:** Lenguajes de Interfaz
+- **Unidad:** 2
+- **Alumno:** Felix Aguilasocho Nicolas
+- **Docente:** Ing. Medina Jimenez Jose Luis
+- **Horario:** 10:00 - 11:00
 
-Alumno: Felix Aguilasocho Nicolas
+---
 
-Docente: Ing. Medina Jimenez Jose Luis
+## 🎯 Objetivo
 
-Horario: 10:00 a 11:00
+Comprender el funcionamiento del lenguaje ensamblador mediante ejercicios prácticos que permitan trabajar con registros, instrucciones, operaciones y procedimientos.
 
-Descripción
+---
 
-En este repositorio se encuentran diferentes ejercicios desarrollados en lenguaje ensamblador utilizando MASM e Irvine32.
+## 🖥️ Herramientas utilizadas
 
-Las prácticas tienen como objetivo comprender el funcionamiento de las instrucciones básicas del ensamblador, el manejo de registros, las operaciones aritméticas y lógicas, los saltos condicionales, los procedimientos y el manejo de archivos.
+- Visual Studio
+- MASM (Microsoft Macro Assembler)
+- Librería Irvine32
+- Ensamblador x86 de 32 bits
 
-Herramientas utilizadas
+---
 
-Visual Studio
+## 📂 Contenido de las prácticas
 
-MASM (Microsoft Macro Assembler)
+1. Operaciones aritméticas (`ADD`, `SUB`, `MUL`, `DIV`)
+2. Saltos condicionales (`JE`, `JNE`, `JG`, `JL`)
+3. Operaciones lógicas (`AND`, `OR`, `XOR`, `TEST`)
+4. Desplazamientos y rotaciones (`SHL`, `SHR`, `ROL`, `ROR`)
+5. Manejo de pila (`PUSH`, `POP`)
+6. Procedimientos (`CALL`, `RET`)
+7. Conversiones numéricas a ASCII
+8. Validación de datos
+9. Manejo de archivos de texto
 
-Librería Irvine32
+---
 
-Lenguaje ensamblador x86
+## 📝 Descripción
 
-Contenido
+Los programas de este repositorio fueron realizados como parte de las prácticas de la **Unidad 2**.
 
-Programas de práctica sobre operaciones aritméticas, instrucciones lógicas, desplazamientos de bits, manejo de pila, conversiones numéricas, validación de datos y lectura o escritura de archivos.
+Cada ejercicio permite conocer y aplicar diferentes instrucciones del lenguaje ensamblador, así como comprender el manejo de registros y memoria.
+
+---
+
+### 👨‍💻 Autor
+
+**Felix Aguilasocho Nicolas**
+
+Ingeniería en Sistemas Computacionales
+
+Instituto Tecnológico de Culiacán
